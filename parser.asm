@@ -1,10 +1,10 @@
-							;=================================================================================;
-							;Copyright (c) 2015  CASSION Pierre Robentz (pierrerobentz.cassion@gmail.com), VILLIARD Elisee, JEAN Ones;
-							;This is a program writing to evaluate an arithmetic expression																						;
-							;This code is under Yoople licence		
-							;this programme is writed on 16 bits that mean we can use signed number from -32768 to 32767								;
-							;iwe can calculate the factorial of 0 to 8. 
-							;=================================================================================;
+			;=================================================================================;
+			;Copyright (c) 2015  CASSION Pierre Robentz (pierrerobentz.cassion@gmail.com);
+			;This is a program writing to evaluate an arithmetic expression																						;
+			;This code is under Yoople licence		
+			;this programme is writed on 16 bits that mean we can use signed number from -32768 to 32767								;
+			;iwe can calculate the factorial of 0 to 8. 
+			;=================================================================================;
 
 DATA SEGMENT
 	welcome db  10, 13, 10, 13, "  ------BIENVENUE DANS LE PROGRAMME CALCULATEUR ET FACTORIEL------",10,13,"$"
